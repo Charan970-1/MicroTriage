@@ -1,0 +1,10 @@
+flask
+flask-cors
+numpy==1.26.4
+pandas
+joblib
+scikit-learn
+shap==0.44.0
+scispacy==0.5.4
+spacy==3.7.2
+gunicorn
