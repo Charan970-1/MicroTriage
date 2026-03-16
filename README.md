@@ -87,15 +87,6 @@ npm run dev
 
 ---
 
-## 👨‍💻 Developers
-
-| Name                  | Role                      |
-|-----------------------|---------------------------|
-| Santhosh Reddy Beeram | ML Engineer, Full Stack Dev |
-| [LinkedIn](https://linkedin.com/in/santhosh-reddy-beeram-2a5864315/) | [GitHub](https://github.com/santhosh-reddy-126) |
-
----
-
 ## 📜 License
 
 MIT License - feel free to use and contribute.
